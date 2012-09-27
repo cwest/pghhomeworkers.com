@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://cwest.github.com/pghhomeworkers/atom.xml" rel="self"/>
-  <link href="http://cwest.github.com/pghhomeworkers/"/>
-  <updated>2012-09-27T17:44:24-04:00</updated>
-  <id>http://cwest.github.com/pghhomeworkers/</id>
+  <title><![CDATA[Pittsburgh Home Workers]]></title>
+  <link href="http://pghhomeworkers.com/atom.xml" rel="self"/>
+  <link href="http://pghhomeworkers.com/"/>
+  <updated>2012-09-27T17:45:19-04:00</updated>
+  <id>http://pghhomeworkers.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Casey West]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Coming soon...]]></title>
-    <link href="http://cwest.github.com/pghhomeworkers/blog/2012/09/27/coming-soon-dot-dot-dot/"/>
+    <link href="http://pghhomeworkers.com/blog/2012/09/27/coming-soon-dot-dot-dot/"/>
     <updated>2012-09-27T17:37:00-04:00</updated>
-    <id>http://cwest.github.com/pghhomeworkers/blog/2012/09/27/coming-soon-dot-dot-dot</id>
+    <id>http://pghhomeworkers.com/blog/2012/09/27/coming-soon-dot-dot-dot</id>
     <content type="html"><![CDATA[<p>Details of our first meetup will be posted once someone gets me a coffee.</p>
 ]]></content>
   </entry>
