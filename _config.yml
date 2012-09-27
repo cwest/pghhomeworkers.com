@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://cwest.github.com/pghhomeworkers
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://pghhomeworkers.com
+title: Pittsburgh Home Workers
+subtitle: Living the dream.
+author: Casey West
 simple_search: http://google.com/search
 description:
 
@@ -26,7 +26,7 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /pghhomeworkers
+root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public/pghhomeworkers
